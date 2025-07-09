@@ -2,8 +2,12 @@
 
 The dashboard is designed as a comprehensive tool for analyzing TCS stock behavior, offering meaningful insights across multiple time scales. It functions not only as a visual representation of historical performance but also as a springboard for strategic investment planning and market evaluation.
 
+## 📥 Download the Dashboard
 
-## 📸 Dashboard Previews
+You can download and explore the full Power BI dashboard:
+
+[🔗 TCS_Stock_Analysis.pbix](https://github.com/Meghana-HS/Powerbi/blob/main/powerbi-project.pbit)
+
 
 ### 🔹 TCS Market Summary Dashboard
 ![TCS Market Dashboard](dashboard1.png)
